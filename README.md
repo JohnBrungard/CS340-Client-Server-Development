@@ -12,10 +12,14 @@ For further reference, please view my CrudTesting.ipynb that performs several te
 
 ***How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?***
 When encountering a problem, I first try to understand the problem. With coding discrepancies, this is validated through checks to narrow down what could be causing an issue. On an overview level, this is accomplished by researching the problem whether it be through analyzing user requirements, or seeing if someone faced a similar issue and how they solved it. 
+
 I follow up by designing a solution. With coding discrepancies, I usually try to formulate or discuss with colleagues the changes that I feel would fix the problem. I try to look at how this solution would affect not only the single discrepancy, but the system as a whole. On an overview level, I develop an algorithm which breaks down step-by-step how I will go about solving an issue. I reference popular models that support this notion such as the Software Development Life Cycle documentation. 
+
 I then apply the solution. Concurrently, I perform regression testing and analyze other components of the code to make sure my additions to the code aren’t negatively affecting previous components. I also throw in validation checks for the new code to make sure it is doing what is intended and what outcome it creates when interacting with the discrepancy. On an overview level, I accomplish this with incremental and iterative development. I “chunk” larger problems into smaller ones and refine parts of the code when appropriate. 
+
 When the implementation of a solution is appearing successful, I heavily test the program using different testing strategies such as border cases with the mindset that I am trying to break the program. Tests go above unit and regression testing in this phase and can include other forms such as integration and system testing. 
 With this mindset that I applied to the Grazioso Salvare project, I found I had to be innovative due to the obstacles I faced. I had to research more into Dash Documentation and how it performs commands that I have not yet learned. As stated before, incremental development and testing were key for me beginning to understand this new programming environment. 
+
 I plan to use this experience to devise further strategies and plans for other assignments involving databases. An example of this includes testing my results in the data table with what exactly appears in the database when applying CRUD operations.
 
 
